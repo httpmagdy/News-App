@@ -1,4 +1,4 @@
-# flutter_app2
+# News App
 
 A new Flutter application.
 
